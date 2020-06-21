@@ -1,0 +1,8 @@
+#output
+target
+
+#vs
+vs/.vs
+vs/vs/x64
+vs/vs/x86
+vs/vs/AnyCPU
